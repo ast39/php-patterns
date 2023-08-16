@@ -9,7 +9,6 @@
 ### Structural
 
 - "Adapter/Wrapper"
-- "Adapter/Wrapper"
 - "Bridge"
 - "Dependency injection"
 - "Registry"
