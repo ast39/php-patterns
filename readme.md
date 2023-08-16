@@ -8,7 +8,8 @@
 -----
 ### Structural
 
-- Design pattern "Adapter/Wrapper"
-- Design pattern "Bridge"
-- Design pattern "Dependency injection"
-- Pattern "Registry"
+- "Adapter/Wrapper"
+- "Adapter/Wrapper"
+- "Bridge"
+- "Dependency injection"
+- "Registry"
