@@ -1,1 +1,1 @@
-Pattern "Registry" (Structural)
+### Pattern "Registry" (Structural)

@@ -1,1 +1,1 @@
-Design pattern "Dependency injection" (Structural)
+### Design pattern "Dependency injection" (Structural)
