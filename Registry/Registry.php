@@ -4,6 +4,9 @@ namespace Registry;
 
 use Registry\Traits\MultitonTrait;
 
+/**
+ * Pattern "Registry" (Structural)
+ */
 class Registry {
 
     use MultitonTrait;

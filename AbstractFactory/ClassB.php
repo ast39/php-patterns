@@ -3,12 +3,22 @@
 namespace AbstractFactory;
 
 /**
- *
+ * Класс Б
  */
 class ClassB {
 
-    public function method()
+    /**
+     * Константа версии
+     */
+    const VERSION = 'Class B';
+
+    /**
+     * Реализация метода в классах типа Б
+     *
+     * @return void
+     */
+    public function showVersion(): void
     {
-        echo 'Class B method<br>';
+        dump('Version for ' . self::VERSION);
     }
 }

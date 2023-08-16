@@ -3,9 +3,14 @@
 namespace AbstractFactory;
 
 /**
- *
+ * Интерфейс для фабрик
  */
 interface FactoryInterface {
 
-    public function method();
+    /**
+     * Метод вывода версии
+     *
+     * @return void
+     */
+    public function showVersion(): void;
 }

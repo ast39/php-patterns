@@ -3,14 +3,17 @@
 namespace AbstractFactory;
 
 /**
- *
+ * Фабрика классов типа А
  */
 class FactoryA implements FactoryInterface {
 
+    /**
+     * @var ClassA
+     */
     protected $class;
 
     /**
-     * Use Class1
+     *
      */
     public function __construct()
     {
@@ -18,10 +21,10 @@ class FactoryA implements FactoryInterface {
     }
 
     /**
-     * run method class1
+     * @return void
      */
-    public function method()
+    public function showVersion(): void
     {
-        $this->class->method();
+        $this->class->showVersion();
     }
 }
