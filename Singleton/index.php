@@ -5,7 +5,6 @@ use Singleton\Test;
 require_once __DIR__ . '/../vendor/autoload.php';
 
 $storage1 = Test::getInstance();
-
 $storage1->save('Alex');
 $storage1->save('Kate');
 dump($storage1->read());
