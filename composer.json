@@ -1,0 +1,42 @@
+{
+  "name": "ast/php-patterns",
+  "description": "Pattern examples",
+  "license": "free",
+  "authors": [
+    {
+      "name": "Alexandr Statut",
+      "email": "alexandr.statut@gmail.com"
+    }
+  ],
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "allow-plugins": {
+      "pestphp/pest-plugin": true,
+      "php-http/discovery": true
+    },
+    "platform": {
+      "php": "8.1"
+    }
+  },
+
+  "require": {
+    "php": ">=7.4.0",
+
+    "ext-json": "*",
+    "ext-soap": "*",
+    "ext-iconv": "*",
+    "ext-simplexml": "*",
+    "ext-libxml": "*",
+
+    "symfony/var-dumper": "^5.4",
+    "vlucas/phpdotenv": "^5.4"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  }
+}
