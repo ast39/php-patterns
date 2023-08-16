@@ -9,6 +9,7 @@
     <li><a href="Adapter">Adapter</a></li>
     <li><a href="Bridge">Bridge</a></li>
     <li><a href="DependencyInjection">Dependency Injection</a></li>
+    <li><a href="Singleton">Singleton</a></li>
     <li><a href="Registry">Registry</a></li>
 </ul>
 </body>

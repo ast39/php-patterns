@@ -11,4 +11,5 @@
 - "Adapter/Wrapper"
 - "Bridge"
 - "Dependency injection"
+- "Singleton"
 - "Registry"
