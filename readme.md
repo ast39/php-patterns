@@ -11,6 +11,7 @@
 
 - "Adapter/Wrapper"
 - "Bridge"
+- "Composite"
 - "Dependency injection"
 - "Multiton"
 - "Singleton"
