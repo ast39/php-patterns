@@ -5,6 +5,8 @@
 
 - "Abstract factory"
 - "Builder"
+- "Multiton"
+- "Singleton"
 
 -----
 ### Structural
@@ -13,6 +15,4 @@
 - "Bridge"
 - "Composite"
 - "Dependency injection"
-- "Multiton"
-- "Singleton"
 - "Registry"
