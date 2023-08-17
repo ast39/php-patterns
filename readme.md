@@ -3,7 +3,8 @@
 -----
 ### Creational
 
-- Design pattern "Abstract factory"
+- "Abstract factory"
+- "Builder"
 
 -----
 ### Structural
