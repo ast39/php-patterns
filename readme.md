@@ -14,5 +14,6 @@
 - "Adapter/Wrapper"
 - "Bridge"
 - "Composite"
+- "Decorator"
 - "Dependency injection"
 - "Registry"
