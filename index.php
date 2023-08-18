@@ -13,6 +13,7 @@
     <li><a href="Decorator">Decorator</a></li>
     <li><a href="DependencyInjection">Dependency Injection</a></li>
     <li><a href="Facade">Facade</a></li>
+    <li><a href="FactoryMethod">Factory Method</a></li>
     <li><a href="Multiton">Multiton</a></li>
     <li><a href="Singleton">Singleton</a></li>
     <li><a href="Registry">Registry</a></li>

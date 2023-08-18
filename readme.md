@@ -5,6 +5,7 @@
 
 - "Abstract factory"
 - "Builder"
+- "Factory method"
 - "Multiton"
 - "Singleton"
 
