@@ -16,4 +16,5 @@
 - "Composite"
 - "Decorator"
 - "Dependency injection"
+- "Facade"
 - "Registry"
